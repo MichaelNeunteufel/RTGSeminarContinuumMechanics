@@ -1,31 +1,6 @@
-# Supplementary files for RTG Seminar
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://michaelneunteufel.github.io/RTGSeminarContinuumMechanics/lab?path=poisson.ipynb)
+# Supplementary files for RTG Seminar on Continuum Mechanics 
+Hold at Portland State University in spring 2025.
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+In this repository all code examples used in the seminar are made publicly available. To run the files locally you have to install the open-source finite element library [NGSolve](https://ngsolve.org) (see the [installation instructions](https://docu.ngsolve.org/latest/)).
 
-## ✨ Try it in your browser ✨
-
-➡️ **https://ngsolve.github.io/jupyterlite_ngsolve/lab?path=poisson.ipynb**
-
-## Setting up your own NGSolve - jupyterlite demos:
-
-1. Sign in to your github account
-   
-2. Click on 'Use this template' to create your new, public repository
-   
-3. Enable 'github-pages from actions':
-
-   Settings -> Pages -> Source: 'github actions'
-
-4. Click on 'Actions', and allow workflow actions (maybe not necessary ?)
-
-5. Fill the 'contents' folder with your notebooks
-
-6. Adjust links to your github pages website
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+You can also run the files directly in the browser thanks to JupyterLite [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.readthedocs.io/en/latest/index.html) and [JupyterLite for NGSolve](https://ngsolve.github.io/jupyterlite_ngsolve/).
