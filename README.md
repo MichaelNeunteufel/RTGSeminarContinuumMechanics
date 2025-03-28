@@ -1,4 +1,4 @@
-# JupyterLite Demo
+# Supplementary files for RTG Seminar
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://michaelneunteufel.github.io/RTGSeminarContinuumMechanics/lab?path=poisson.ipynb)
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
