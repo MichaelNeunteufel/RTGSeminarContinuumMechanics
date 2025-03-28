@@ -1,6 +1,5 @@
 # JupyterLite Demo
-
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://ngsolve.github.io/jupyterlite_ngsolve/lab?path=poisson.ipynb)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://michaelneunteufel.github.io/RTGSeminarContinuumMechanics/lab?path=poisson.ipynb)
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
