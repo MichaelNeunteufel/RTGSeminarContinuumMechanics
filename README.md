@@ -1,7 +1,8 @@
-# Supplementary files for RTG Seminar on Continuum Mechanics 
-Hold at Portland State University in spring 2025.
+# Tutorial Notebooks for RTG Seminar on Continuum Mechanics
 
-In this repository all code examples used in the seminar are made publicly available. To run the files locally you have to install the open-source finite element library [NGSolve](https://ngsolve.org) (see the [installation instructions](https://docu.ngsolve.org/latest/)). Then open content/index_seminar.ipynb to start.
+These jupyter notebooks are supplementary material for hands-on activities in a seminar at Portland State University in Spring 2025. The seminar was held as part of the activities of the Research & Training Group (RTG), made possible thanks to the National Science Foundation (NSF) Grant DMS-2136228.
+
+To run the files locally you have to install the open-source finite element library [NGSolve](https://ngsolve.org) (see the [installation instructions](https://docu.ngsolve.org/latest/)). Then open content/index_seminar.ipynb to start.
 
 You can also run the files directly in the browser
 
